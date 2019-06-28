@@ -43,17 +43,17 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="380dp"
-        android:layout_height="24dp"
-        android:layout_marginStart="16dp"
+        android:layout_width="401dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="3dp"
         android:layout_marginTop="7dp"
-        android:layout_marginEnd="16dp"
+        android:layout_marginEnd="3dp"
         android:layout_marginBottom="151dp"
         android:text="@string/tap_inst"
-        android:textSize="18sp"
+        android:textAlignment="center"
+        android:textSize="16sp"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintVertical_bias="0.0" />
