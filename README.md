@@ -3,8 +3,22 @@
 
 ## Latest Release:		<br />
 
+### version 2.6.1     
+[18:14 IST, 28 Jun 2019] 
+<pre>
+Changelog:
+- layout fixes for devices with small display size
+- Added onTap action for cat image: same as ButtonTap
+- misc. fixes
+- code cleanup
+</pre>
+
+Link: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/2.6.1
+
+## Earlier release: <br />
+version 2.6 went unreleased
 ### version 2.5.1     
-[12:20 PM IST, 28 Jun 2019] 
+[12:20 IST, 28 Jun 2019] 
 <pre>
 Changelog:
 - layout fixes for legacy devices
@@ -12,7 +26,7 @@ Changelog:
 
 Link: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/2.5.1
 
-## Earlier release:
+## Older release:
 ### version 2.5
 <pre>
 Changelog:
