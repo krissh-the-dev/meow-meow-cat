@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void ButtonTap(View v){
-        Toast myToast = Toast.makeText(getApplicationContext(), "Meow! <3", Toast.LENGTH_LONG);
+        Toast myToast = Toast.makeText(getApplicationContext(), "Meow! 🐱", Toast.LENGTH_LONG);
         myToast.show();
         MediaPlayer meow = MediaPlayer.create(MainActivity.this, R.raw.meow);
         meow.start();
