@@ -8,7 +8,7 @@
 Changelog:
 - updated dependencies
 - removed action bar
-- added compatilibilty to android 5+
+- added compatibilty to android 5+
 - layout fixes and minor tweaks
 </pre>
 
