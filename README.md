@@ -2,7 +2,20 @@
 ### Simple android application with simple layout and button. Tapping on the button plays a Meow sound, which is found to be having some effect on real cats!
 
 ## Latest Release:		<br />
+### version 2.7.1     
+[14:40 IST, 27 Jul 2019] 
+<pre>
+Changelog:
+- updated dependencies
+- removed action bar
+- added compatibilty to android 5+
+- layout fixes and minor tweaks
+</pre>
 
+Link: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/2.7.1
+
+
+## Earlier releases: <br />
 ### version 2.6.1     
 [18:14 IST, 28 Jun 2019] 
 <pre>
@@ -15,7 +28,7 @@ Changelog:
 
 Link: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/2.6.1
 
-## Earlier release: <br />
+
 version 2.6 went unreleased
 ### version 2.5.1     
 [12:20 IST, 28 Jun 2019] 
