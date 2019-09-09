@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Meow Meow Cat</string>
     <string name="button_text">Tap me!</string>s
-    <string name="hi_message">Hi! Welcome to my app.</string>
-    <string name="tap_inst">Tap the button below to see an awesome toast!</string>
+    <string name="hi_message">Hi! Pussy Cat!</string>
+    <string name="tap_inst">Tap the button below to hear from me!</string>
     <string name="avatar">MEOW!</string>
 </resources>
