@@ -1,63 +1,40 @@
 # Meow Meow Cat
 ### Simple android application with simple layout and button. Tapping on the button plays a Meow sound, which is found to be having some effect on real cats!
 
-## Latest Release:		<br />
+### Supported Devices:
+ * Mininum Android Version  : Android 5.X (SDK 22)
+ * Targetted Android Version: Android-10 (SDK 29)
+ * Maximum Android Version  : Android-10 (SDK 29)
+ * Supported ARCH Types     : ARM, ARM64, x86
+
+## Latest Release:
+
+### Version 3.0     
+
+#### Released on: 
+23:35 IST, 23 Jan 2019
+
+#### Changelog:
+ - Added more sounds.
+ - Bug fixes
+ - Updated dependencies
+ - Improved support for Android-10.
+ - Completely rewritten source code.
+
+Download: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/3.0
+
+
+## Earlier Release:	
+
 ### version 2.8     
 [17:40 IST, 09 Sept 2019] 
-<pre>
-Changelog:
+### Changelog:
 - reverted back old cat icons
 - removed all resources of new cat images
 - updated dependencies
 - properly removed action bar
 - bug fixes
 - improved android 10 support
-</pre>
 
 Link: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/2.8
 
-## Earlier releases: <br />
-### version 2.7.1     
-[14:40 IST, 27 Jul 2019] 
-<pre>
-Changelog:
-- updated dependencies
-- removed action bar
-- added compatibilty to android 5+
-- layout fixes and minor tweaks
-</pre>
-
-Link: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/2.7.1
-
-
-## Earlier releases: <br />
-### version 2.6.1     
-[18:14 IST, 28 Jun 2019] 
-<pre>
-Changelog:
-- layout fixes for devices with small display size
-- Added onTap action for cat image: same as ButtonTap
-- misc. fixes
-- code cleanup
-</pre>
-
-Link: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/2.6.1
-
-
-version 2.6 went unreleased
-### version 2.5.1     
-[12:20 IST, 28 Jun 2019] 
-<pre>
-Changelog:
-- layout fixes for legacy devices
-</pre>
-
-Link: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/2.5.1
-
-## Older release:
-### version 2.5
-<pre>
-Changelog:
-- layout fixes for legacy devices
-- Miscelloneous fixes
-</pre>
