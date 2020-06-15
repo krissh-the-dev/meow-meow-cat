@@ -21,7 +21,7 @@
  - Improved support for Android-10.
  - Completely rewritten source code.
 
-Download: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/3.0
+Download: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/v3.0
 
 
 ## Earlier Release:	
@@ -36,5 +36,5 @@ Download: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/3.0
 - bug fixes
 - improved android 10 support
 
-Link: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/2.8
+Link: https://github.com/KrishnaMoorthy12/meow-meow-cat/releases/tag/v2.8
 
